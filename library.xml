@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie width="550" height="400" framerate="40">
+  <background color="#ffffff"/>
+	<frame>
+	<library>
+		<font id="Invaders" import="./font/INVADERS.TTF"/>
+		<font id="Invaders2" import="./font/invaders2.TTF"/>
+		<font id="Computer" import="./font/MIKRC___.TTF"/>
+		<clip id="fond" import="./img/invader1.png"/>
+	</library>
+	</frame>
+</movie>
